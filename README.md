@@ -1,1 +1,2 @@
-# 21CSL46 - Python Lab
+# 21CSL46
+Python Programming Laboratory
