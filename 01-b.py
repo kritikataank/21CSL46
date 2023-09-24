@@ -14,3 +14,7 @@ for i in num1:
         continue
 for j in l:
     print(f"The number {j} appears {original.count(j)} times.")
+
+for i in range(10):
+    if (b.count(str(i))>0):
+        print(f"The number {i} appears {b.count(str(i))} times.")
